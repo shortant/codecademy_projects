@@ -13,7 +13,9 @@ My Biodiversity project is a specific drill down into the shrew family’s popul
 
 ### Filter Notebook ###
 The filter Notebook is a simple exercise in identifying specific object categories, and applying a lambda function in practical use to filter objects in a data frame. While short, it does indicate more advanced techniques in python like the lambda function and its post-application in future created code.
-The final project in this repository is the life expectancy gdp python file. Inside includes various visualization techniques within the seaborn and matplotlib library including subplots, multiplots, violin, and a wide variety of more applicable bars to produce results within python. 
+
+### Life Expectancy and GDP ###
+The final project in this repository is the Life Expectancy GDP python file. Inside includes various visualization techniques within the seaborn and matplotlib library including subplots, multiplots, violin, and a wide variety of more applicable bars to produce results within python. 
 
 
 Separately these projects may have a smaller significance, but were a crucial stepping stone into the furtherment of education into Python and the data science role. More advanced and completed projects may also be found on my profile in the remaining pinned libraries!
