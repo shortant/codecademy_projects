@@ -19,3 +19,12 @@ The final project in this repository is the Life Expectancy GDP python file. Ins
 
 
 Separately these projects may have a smaller significance, but were a crucial stepping stone into the furtherment of education into Python and the data science role. More advanced and completed projects may also be found on my profile in the remaining pinned libraries!
+
+
+### Tableau account
+
+https://public.tableau.com/app/profile/anthony.shortt
+
+### LinkedIn
+
+www.linkedin.com/in/anthonyshortt
